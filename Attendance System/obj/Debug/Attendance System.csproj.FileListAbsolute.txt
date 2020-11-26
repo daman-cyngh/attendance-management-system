@@ -1,0 +1,17 @@
+E:\Users\acer\source\repos\Attendance System\Attendance System\bin\Debug\Attendance System.exe.config
+E:\Users\acer\source\repos\Attendance System\Attendance System\bin\Debug\Attendance System.exe
+E:\Users\acer\source\repos\Attendance System\Attendance System\bin\Debug\Attendance System.pdb
+E:\Users\acer\source\repos\Attendance System\Attendance System\bin\Debug\MetroFramework.dll
+E:\Users\acer\source\repos\Attendance System\Attendance System\bin\Debug\MetroFramework.Fonts.dll
+E:\Users\acer\source\repos\Attendance System\Attendance System\obj\Debug\Attendance System.csprojAssemblyReference.cache
+E:\Users\acer\source\repos\Attendance System\Attendance System\obj\Debug\Attendance_System.MainForm.resources
+E:\Users\acer\source\repos\Attendance System\Attendance System\obj\Debug\Attendance_System.LoginForm.resources
+E:\Users\acer\source\repos\Attendance System\Attendance System\obj\Debug\Attendance_System.Properties.Resources.resources
+E:\Users\acer\source\repos\Attendance System\Attendance System\obj\Debug\Attendance System.csproj.GenerateResource.cache
+E:\Users\acer\source\repos\Attendance System\Attendance System\obj\Debug\Attendance System.csproj.CoreCompileInputs.cache
+E:\Users\acer\source\repos\Attendance System\Attendance System\obj\Debug\Attendance System.csproj.CopyComplete
+E:\Users\acer\source\repos\Attendance System\Attendance System\obj\Debug\Attendance System.exe
+E:\Users\acer\source\repos\Attendance System\Attendance System\obj\Debug\Attendance System.pdb
+E:\Users\acer\source\repos\Attendance System\Attendance System\obj\Debug\Attendance_System.FormAddClass.resources
+E:\Users\acer\source\repos\Attendance System\Attendance System\obj\Debug\Attendance_System.StudentsAddForm.resources
+E:\Users\acer\source\repos\Attendance System\Attendance System\obj\Debug\Attendance_System.RegisterFrm.resources
